@@ -1,4 +1,4 @@
-<img src="https://github.com/lemu94/lemu94/blob/main/1727787953143.jpeg" alt="Cover" width="400"/>
+<div align="center"> <img src="https://github.com/lemu94/lemu94/blob/main/1727787953143.jpeg" alt="Cover" width="400"/></div>
 
 # 🌐 Full Stack Web Developer - Certified Angular Developer with a Love for TypeScript 🚀🧨
 
